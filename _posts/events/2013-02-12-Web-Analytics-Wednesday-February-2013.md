@@ -11,8 +11,8 @@ The venue was booked on Wednesday, so it's on a _TUESDAY_ this month only.
 
 #### Talks
 
-Rod Jacka will give us a case study of work he did on Oxfam.
-Still looking for a second talk. Drop me a note if you've got something you'd like to cover! <simon@simonrumble.com>
+* Rod Jacka will give us a case study of work he did on Oxfam.
+* Still looking for a second talk. Drop me a note if you've got something you'd like to cover! <simon@simonrumble.com>
 
 #### Where and when?
 
