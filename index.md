@@ -24,8 +24,13 @@ plugs, then networking time.
 
 ### Free drinks!
 
-Our generous sponsor [Datalicious](http://www.datalicious.com/) kindly pays
-for drinks and room hire.
+[<img src="assets/panalysis-logo.gif" class="pull-right" />](http://www.panalysis.com/)
+
+Thanks to our brilliant sponsor, 
+[Panalysis](http://www.panalysis.com/), we can offer free drinks! They're
+also covering room hire.
+
+Panalysis is a leading-edge digital analytics consultancy. Since 2001 we have been providing strategic measurement, data analysis and insights to improve online performance.
 
 ## Stay informed
 
