@@ -12,7 +12,7 @@ Presentations
 -------------
 
 * Chaoming Li: [How to buy a tag management system](/assets/2013-03/Buying%20a%20tag%20management%20system%20solution.pdf)
-* Narbeh Yousefian: Probability and statistics in web behaviour (slides coming soon)
+* Narbeh Yousefian: [Probability and statistics in web behaviour](/assets/2013-03/Probability%20and%20statistics%20in%20web%20behaviour.pdf)
 * Aidan Lynch: [Certified Web Analyst exam from the DAA](/assets/2013-03/Certified%20Web%20Analyst%20Exam.pdf)
 
 Photos
