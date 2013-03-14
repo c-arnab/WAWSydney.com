@@ -34,8 +34,9 @@ Panalysis is a leading-edge digital analytics consultancy. Since 2001 we have be
 
 ## Stay informed
 
-* [Sign up for the announcement emails](http://eepurl.com/rVKLr "Annoucement list")
+* [Make sure you're on the announcement email list](http://eepurl.com/rVKLr "Annoucement list")
 * [Follow us on Twitter](https://twitter.com/WAWSydney "WAWSydney Twitter")
+* [Sign up for the LinkedIn group](http://www.linkedin.com/groups?home=&gid=4903479&trk=anet_ug_hm)
 
 ## Talks wanted!
 
