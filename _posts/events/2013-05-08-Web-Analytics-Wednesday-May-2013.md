@@ -7,7 +7,7 @@ tagline: Back to Wednesday
 ---
 {% include JB/setup %}
 
-Web Analytics <del>Wednesday</del> Weekday is on **Wednesday** 8th April.
+Web Analytics <del>Wednesday</del> Weekday is on **Wednesday** 8th May.
 
 #### Talks
 
