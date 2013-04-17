@@ -11,6 +11,9 @@ Web Analytics <del>Wednesday</del> Weekday is on **Wednesday** 8th May.
 
 #### Talks
 
+* [David Brigham](http://www.aegismedia.com.au): **Media Attribution)** Not why it's so amazing, but understanding its limitations, what we can do to overcome these, and how much do we actually need or want to know.
+* [Willem Paling](http://www.lovesdata.com/contact-us/willem): **Google Universal Analytics**
+
 * Got something you want to talk about? Get in touch and do a talk.
 
 #### Where and when?
