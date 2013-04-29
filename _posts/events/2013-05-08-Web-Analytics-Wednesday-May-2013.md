@@ -7,12 +7,12 @@ tagline: Back to Wednesday
 ---
 {% include JB/setup %}
 
-Web Analytics <del>Wednesday</del> Weekday is on **Wednesday** 8th May.
+Web Analytics Wednesday is on **Wednesday** 8th May.
 
 #### Talks
 
-* [David Brigham](http://www.aegismedia.com.au): **Media Attribution)** Not why it's so amazing, but understanding its limitations, what we can do to overcome these, and how much do we actually need or want to know.
-* [Willem Paling](http://www.lovesdata.com/contact-us/willem): **Google Universal Analytics**
+* [David Brigham](http://www.aegismedia.com.au): **Media Attribution** Not why it's so amazing, but understanding its limitations, what we can do to overcome these, and how much do we actually need or want to know.
+* [Willem Paling](http://www.lovesdata.com/contact-us/willem): **Google Universal Analytics** Loves Data hacked Universal Analytics to tie caffeine to productivity in Google Analytics. [Sneak preview](https://www.youtube.com/watch?feature=player_embedded&v=C27yMQOS8n0).
 
 * Got something you want to talk about? Get in touch and do a talk.
 
