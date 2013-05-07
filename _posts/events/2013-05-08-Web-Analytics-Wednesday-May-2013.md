@@ -11,11 +11,11 @@ Web Analytics Wednesday is on **Wednesday** 8th May.
 
 #### Talks
 
-*	**Media Attribution**
+*	**Is it time to replace Browsers with Devices?**
 
-	_[David Brigham](http://www.aegismedia.com.au), Head of Web Analytics at Aegis Media_
+	_[Paul Dovas](http://au.linkedin.com/in/pauldovas), CEO at Audit Bureaux of Australia_
 
-	Everybody knows that media attribution is the holy grail of digital marketing. Or at least it would be if it wasn't for a few .teething problems.. This presentation goes into the reasons why you should always caveat attribution analysis, and the reasons why not doing attribution is worse.
+	In this device hungry world, do we need a new metric to take on the role of unique browsers, which has lost its lustre in the era of hybrid web measurement? Paul will explore what Unique Devices are, how they can be used and the technology behing the measurement.
 *	**Google Universal Analytics**
 
 	_[Willem Paling](http://www.lovesdata.com/contact-us/willem), Senior Analytics & Optimisation Specialist, Loves Data_
