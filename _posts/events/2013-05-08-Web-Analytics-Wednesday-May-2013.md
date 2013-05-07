@@ -13,7 +13,7 @@ Web Analytics Wednesday is on **Wednesday** 8th May.
 
 *	**Is it time to replace Browsers with Devices?**
 
-	_[Paul Dovas](http://au.linkedin.com/in/pauldovas), CEO at Audit Bureaux of Australia_
+	_[Paul Dovas](http://au.linkedin.com/in/pauldovas), CEO at Audit Bureaux of Australia & [David Gaines](http://www.linkedin.com/in/dagaines), Managing Partner at Edentify_
 
 	In this device hungry world, do we need a new metric to take on the role of unique browsers, which has lost its lustre in the era of hybrid web measurement? Paul will explore what Unique Devices are, how they can be used and the technology behing the measurement.
 *	**Google Universal Analytics**
